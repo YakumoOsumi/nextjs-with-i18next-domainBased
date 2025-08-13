@@ -4,15 +4,14 @@ import { defineRouting } from 'next-intl/routing';
 export const routing = defineRouting({
   locales: ['en', 'ja'],
   defaultLocale: 'en',
-  localePrefix:'never',
   domains: [
     {
-      domain: 'en.example.com',
+      domain: 'en.nextjs-with-i18next-domain-based.vercel.app',
       defaultLocale: 'en',
       locales: ['en']
     },
     {
-      domain: 'ja.example.com',
+      domain: 'ja.nextjs-with-i18next-domain-based.vercel.app',
       defaultLocale: 'ja',
       locales: ['ja']
     }
