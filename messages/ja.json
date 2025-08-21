@@ -1,7 +1,10 @@
 {
   "HomePage": {
     "title": "こんにちは世界！",
-    "about": "about pageにジャンプ",
-    "home": "home pageにジャンプ"
+    "jump_about": "about pageにジャンプ"
+  },
+  "AboutPage": {
+    "title": "こんにちは世界！",
+    "jump_home": "home pageにジャンプ"
   }
 }

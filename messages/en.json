@@ -1,7 +1,10 @@
 {
-  "HomePage": {
-    "title": "Hello world!",
-    "about": "Go to the about page",
-    "home": "Go to the home page"
+  "TopPage": {
+    "title": "This is a TopPage!",
+    "jump_about": "Go to the about page"
+  },
+  "AboutPage": {
+    "title": "This is a AboutPage!",
+    "jump_home": "Go to the home page"
   }
 }
